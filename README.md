@@ -49,9 +49,8 @@ Delete Item:
 
 DELETE /items/{item_id}/
 Returns: Success message.
+
+
 Testing
 To run the unit tests, use the following command:
-
-bash
-Copy code
 python manage.py test
